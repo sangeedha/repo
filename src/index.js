@@ -22,8 +22,7 @@ reportWebVitals()*/
 
 /*ReactDOM.render(
   <Provider store = {st
-  <React.StrictMode>
-  <h1>"In main index"</h1>
+  <React.StrictMod
 <App />
 
 </React.StrictMode>, 

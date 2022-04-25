@@ -30,7 +30,7 @@ function App()
 
  return(
     <div>
-      <h1> Entered string: {counter} </h1>
+      <h1> Entered string from reducer1: {counter} </h1>
       <label>
               enter the value:
               <input type = "text" 
