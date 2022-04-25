@@ -21,7 +21,7 @@ import { Provider } from 'react-redux';cd
 reportWebVitals()*/
 
 /*ReactDOM.render(
-  <Provider store = {store}> 
+  <Provider store = {st
   <React.StrictMode>
   <h1>"In main index"</h1>
 <App />
